@@ -17,7 +17,7 @@ export default {
 	winningLines : [],
 	i: 0,
 	hsv: [],
-	winningRate: 100, //Set winning rate
+	winningRate: 30, //Set winning rate
 	symbolNum: 0,	//set value of table1
 	symbolNum1: 0,
 	symbolNum2: 0,
